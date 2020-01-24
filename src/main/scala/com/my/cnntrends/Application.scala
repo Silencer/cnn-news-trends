@@ -33,6 +33,6 @@ object Application extends HttpApp with JsonProjectionProtocol {
 
   def main(args: Array[String]): Unit = {
     actorSystem ! AggregatorEngine.Start()
-    Application.startServer("localhost", 8080, ServerSettings(Config()))
+    Application.startServer("0.0.0.0", 8080, ServerSettings(Config()))
   }
 }
