@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<rss xmlns:atom='http://www.w3.org/2005/Atom' xmlns:ht='https://trends.google.com/trends/trendingsearches/daily' version='2.0'>
+	<channel>
+		<title>Daily Search Trends</title>
+		<description>Recent searches</description>
+		<link>https://trends.google.com/trends/trendingsearches/daily?geo=US</link>
+		<atom:link href='https://trends.google.com/trends/trendingsearches/daily/rss?geo=US' rel='self' type='application/rss+xml'/>
+		<item>
+			<title>Earthquake</title>
+			<ht:approx_traffic>200,000+</ht:approx_traffic>
+			<description>earthquake california, earthquake los angeles</description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Earthquake</link>
+			<pubDate>Wed, 22 Jan 2020 00:00:00 -0800</pubDate>
+			<ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcR63PA6xc149ol7ZIZKkh1blCfEguS68OhfaakFnIzOJKGHzwkiwerwJU4E9UYNmjGc89ztNo1U</ht:picture>
+			<ht:picture_source>NBC Southern California</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>3.6-Magnitude Earthquake Rattles Granada Hills</ht:news_item_title>
+				<ht:news_item_snippet>A 3.6-magnitude earthquake rattled Granada Hills Tuesday night. Over 300 people reported feeling the earthquake, which struck at 11:41 p.m. according to the&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.nbclosangeles.com/news/local/preliminary-3-6-earthquake-rattles-grenada-hills/2296136/</ht:news_item_url>
+				<ht:news_item_source>NBC Southern California</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Magnitude 3.6 earthquake in Granada Hills shakes up L.A. region</ht:news_item_title>
+				<ht:news_item_snippet>A magnitude 3.6 earthquake centered in Granada Hills struck at 11:41 p.m. Tuesday, causing light shaking throughout the San Fernando Valley and weaker&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.latimes.com/california/story/2020-01-22/3-6-quake-felt-near-granada-hills-calif</ht:news_item_url>
+				<ht:news_item_source>Los Angeles Times</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>Kyle Kuzma</title>
+			<ht:approx_traffic>20,000+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Kyle%20Kuzma</link>
+			<pubDate>Wed, 22 Jan 2020 01:00:00 -0800</pubDate>
+			<ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcSPSGaHTG3sy0zMgFNXlBUJhLSWr3o_LNtvqLn0FdPVE9uOJKr_AmgYFrSk3p54i4vhhVDccUcn</ht:picture>
+			<ht:picture_source>Metro</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Vanessa Hudgens sparks dating rumours after dinner with Kyle Kuzma</ht:news_item_title>
+				<ht:news_item_snippet>Vanessa Hudgens has been spotted going for dinner with LA Lakers star Kyle Kuzma a week after her split from Austin Butler.</ht:news_item_snippet>
+				<ht:news_item_url>https://metro.co.uk/2020/01/22/vanessa-hudgens-sparks-rumours-dating-spotted-dinner-kyle-kuzma-12100735/</ht:news_item_url>
+				<ht:news_item_source>Metro</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Vanessa Hudgens Spotted on Date with Lakers Star Kyle Kuzma ...</ht:news_item_title>
+				<ht:news_item_snippet>Vanessa Hudgens was spotted on a date with Lakers star Kyle Kuzma amid her breakup with Austin Butler—get the details here.</ht:news_item_snippet>
+				<ht:news_item_url>https://www.cosmopolitan.com/entertainment/celebs/a30621802/vanessa-hudgens-date-kyle-kuzma/</ht:news_item_url>
+				<ht:news_item_source>Cosmopolitan.com</ht:news_item_source>
+			</ht:news_item>
+		</item>
+	</channel>
+</rss>

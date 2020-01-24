@@ -1,0 +1,68 @@
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+    }
+}
+
+plugins {
+  id "application"
+  id "com.github.maiflai.scalatest" version "0.26"
+}
+
+apply from: "gradle/dependencies.gradle"
+
+allprojects {
+    apply plugin: 'scala'
+    apply plugin: 'idea'
+
+    group = 'com.my.cnntrends'
+    version = '0.0.1-SNAPSHOT'
+
+    compileScala {
+        scalaCompileOptions.encoding = 'UTF-8'
+    }
+    sourceCompatibility = '1.11'
+    targetCompatibility = '1.11'
+
+    sourceSets {
+        main {
+            scala {
+                srcDirs = ["src/main/scala"]
+            }
+            resources {
+                srcDirs = ["src/main/resources"]
+            }
+        }
+    }
+
+    repositories {
+        mavenLocal()
+        mavenCentral()
+    }
+
+
+    dependencies {
+        implementation libs.slf4j
+        implementation libs.logbackClassic
+
+        implementation libs.scalaLibrary
+        implementation libs.scalaLogging
+        implementation libs.scalaXml
+
+        //implementation libs.akkaActor
+        implementation libs.akkaActorTyped
+        implementation libs.akkaStream
+        implementation libs.akkaSlf4j
+        implementation libs.akkaHttp
+        implementation libs.akkaHttpSprayJson
+
+        testImplementation libs.scalaTest
+        testRuntime 'org.pegdown:pegdown:1.4.2'
+    }
+}
+
+application {
+    mainClassName = 'com.my.cnntrends.Application'
+}

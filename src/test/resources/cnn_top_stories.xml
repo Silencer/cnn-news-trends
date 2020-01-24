@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://rss.cnn.com/~d/styles/itemcontent.css"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+   <channel>
+      <title><![CDATA[CNN.com - RSS Channel - App International Edition]]></title>
+      <description><![CDATA[CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.]]></description>
+      <link>https://www.cnn.com/app-international-edition/index.html</link>
+      <image>
+         <url>http://i2.cdn.turner.com/cnn/2015/images/09/24/cnn.digital.png</url>
+         <title>CNN.com - RSS Channel - App International Edition</title>
+         <link>https://www.cnn.com/app-international-edition/index.html</link>
+      </image>
+      <generator>coredev-bumblebee</generator>
+      <lastBuildDate>Wed, 22 Jan 2020 08:48:22 GMT</lastBuildDate>
+      <pubDate>Wed, 22 Jan 2020 08:40:05 GMT</pubDate>
+      <copyright><![CDATA[Copyright (c) 2020 Turner Broadcasting System, Inc. All Rights Reserved.]]></copyright>
+      <language><![CDATA[en-US]]></language>
+      <ttl>10</ttl>
+      <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://rss.cnn.com/rss/edition" />
+      <feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition" />
+      <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
+      <item>
+         <title><![CDATA[Senate approves impeachment trial rules after nasty marathon debate]]></title>
+         <description><![CDATA[The Senate early Wednesday morning approved rules for the Senate impeachment trial of President Donald Trump on a party-line vote that delays the question of whether the Senate should subpoena witnesses and documents until later in the trial.]]></description>
+         <link>https://www.cnn.com/2020/01/21/politics/senate-impeachment-trial-day-1/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/01/21/politics/senate-impeachment-trial-day-1/index.html</guid>
+         <pubDate>Wed, 22 Jan 2020 07:16:17 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200121145126-03-impeachment-trial-unf-0121-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200121145126-03-impeachment-trial-unf-0121-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200121145126-03-impeachment-trial-unf-0121-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200121145126-03-impeachment-trial-unf-0121-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200121145126-03-impeachment-trial-unf-0121-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200121145126-03-impeachment-trial-unf-0121-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200121145126-03-impeachment-trial-unf-0121-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200121145126-03-impeachment-trial-unf-0121-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200121145126-03-impeachment-trial-unf-0121-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200121145126-03-impeachment-trial-unf-0121-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200121145126-03-impeachment-trial-unf-0121-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Chief justice scolds legal teams after tense exchange]]></title>
+         <link>https://www.cnn.com/collections/intl-impeachment-0122/</link>
+         <guid isPermaLink="true">https://www.cnn.com/collections/intl-impeachment-0122/</guid>
+         <pubDate>Wed, 22 Jan 2020 08:38:15 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200122011153-justice-robers-senate-impeachment-0122-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200122011153-justice-robers-senate-impeachment-0122-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200122011153-justice-robers-senate-impeachment-0122-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200122011153-justice-robers-senate-impeachment-0122-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200122011153-justice-robers-senate-impeachment-0122-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200122011153-justice-robers-senate-impeachment-0122-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200122011153-justice-robers-senate-impeachment-0122-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200122011153-justice-robers-senate-impeachment-0122-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200122011153-justice-robers-senate-impeachment-0122-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200122011153-justice-robers-senate-impeachment-0122-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200122011153-justice-robers-senate-impeachment-0122-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+   </channel>
+</rss>

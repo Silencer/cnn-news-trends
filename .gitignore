@@ -1,0 +1,43 @@
+.gradle
+
+# compiled output
+target
+build
+dist
+tmp
+out
+out-tsc
+*.class
+
+# dependencies
+node_modules
+
+# IDEs and editors
+.idea
+*.iml
+.project
+.classpath
+.attach*
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+.sass-cache
+connect.lock
+coverage
+*.log
+*.bak
+typings
+
+# System Files
+.DS_Store
+Thumbs.db
